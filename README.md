@@ -1,6 +1,7 @@
 # Alexa-ParticlePhoton-Dishwasher
 
 Creating a Lambda Function
+
 Go to https://console.aws.amazon.com/lambda
 Click “Functions”
 Click “Create a Lambda function”
