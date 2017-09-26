@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "when",
+          "type": "LITERAL"
+        },
+        {
+          "name": "mode",
+          "type": "LITERAL"
+        }
+      ],
+      "intent": "ParticleIntent"
+    }
+  ]
+}
